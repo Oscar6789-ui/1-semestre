@@ -1,0 +1,1 @@
+Paso 1: Repositorio creado. Quiero hacer un bot para resumir Telegram y crear eventos en Google Calendar
