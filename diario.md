@@ -5,3 +5,4 @@
 - **Paso 5:** Decidido usar la API de usuario (invisible). Intento de obtener api_id y api_hash fallido por límite de intentos (Flood Wait). Pendiente para mañana.
 - **Paso 6:** Repositorio organizado con README y diario.
 aun no se que poner
+aun no
