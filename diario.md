@@ -8,4 +8,5 @@
 aun no se que poner
 aun no
 hoy es el dia que hice la entrega del trabajo, aun no se como manejarme activamente en esta plataforma, tal vez me arrepienta de esta noche, o que sea la mejor noche de todas
-vamos a actualizar lo que es el diario para tener todo aqui 
+vamos a actualizar lo que es el diario para tener todo aqui
+hola al que sea que este leyendo esto
