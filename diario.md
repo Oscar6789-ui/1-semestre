@@ -11,3 +11,4 @@ hoy es el dia que hice la entrega del trabajo, aun no se como manejarme activame
 vamos a actualizar lo que es el diario para tener todo aqui
 hola al que sea que este leyendo esto
 hola de nuevo solo paso a dejar este commit
+hola nuevo commit, en la fecha 11/11
