@@ -12,3 +12,4 @@ vamos a actualizar lo que es el diario para tener todo aqui
 hola al que sea que este leyendo esto
 hola de nuevo solo paso a dejar este commit
 hola nuevo commit, en la fecha 11/11
+hola de nuevo, ahora bien que carajo estoy haciendo con mi vida, tengo que empezar a vivir y no hacer lo que no me deja nada mas que simple inactivismo y nada mas, hay que hacer cosas que nos hagan sentir vivos
