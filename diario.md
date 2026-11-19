@@ -14,3 +14,4 @@ hola de nuevo solo paso a dejar este commit
 hola nuevo commit, en la fecha 11/11
 hola de nuevo, ahora bien que carajo estoy haciendo con mi vida, tengo que empezar a vivir y no hacer lo que no me deja nada mas que simple inactivismo y nada mas, hay que hacer cosas que nos hagan sentir vivos
 hola de nuevo, aqui vamos el dia 16/11 que mierda, 18/11 nuevo commit
+hola de nuevo 19/11
