@@ -17,4 +17,4 @@ hola de nuevo, aqui vamos el dia 16/11 que mierda, 18/11 nuevo commit
 hola de nuevo 19/11
 hola de nuevo volvimos el 22/11/2026
 quiero hacer una automatizacion que leea automaticamente mi telegram, y se conecte con mi google calendar y me ponga en el calendario, las actividades que me manden, los eventos, y cambios importantes, que este pendiente de las cosas importantes, y me las agregue a mi calendario con hora y recordatorios, ademas quiero que esa automatizacion sea de codigo libre y que se pueda replicar en distintos dispositvos de forma facil, es decir que tenga la facilidad de pasarla a mis amigos, y hacerles la vida un poco mas facil hoy toca un poco mas de hacer hola, todavia no he hecho nada para cambiar esta situacion en la que me encuentro y no se porque me quejo si es algo que yo estoy eligiendo por mi propia cuenta y soy conciente de eso 
-
+ vamos a empezar a pasar el dia en el instituto, solo vamos a llegar a la casas a dormir, y hacer la comida para el dia, ayer ya avanzamos algo siquiera, de lo nada que hemos avanzado hasta ahora 
